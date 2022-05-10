@@ -2,7 +2,8 @@
 - 👀 Interested in AI
 - 🌱 Currently studying biomedical engineering
 
-https://www.codewars.com/users/KRQPLY/badges/small
+![Alt text](./controllers_brief.svg)
+<img src="https://www.codewars.com/users/KRQPLY/badges/small">
 
 <!---
 KRQPLY/KRQPLY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
