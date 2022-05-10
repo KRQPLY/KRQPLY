@@ -2,7 +2,6 @@
 - 👀 Interested in AI
 - 🌱 Currently studying biomedical engineering
 
-![Alt text](./controllers_brief.svg)
 <img src="https://www.codewars.com/users/KRQPLY/badges/small">
 
 <!---
