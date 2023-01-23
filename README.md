@@ -1,9 +1,9 @@
 <a href="https://www.codewars.com/users/KRQPLY"><img src="https://www.codewars.com/users/KRQPLY/badges/small"></a>
 
-👋 Hi, I’m @KRQPLY
-💻 Front-End Developer
-🦾 Machine Learning enthusiast
-👨‍🔬 Biomedical Engineering Mechanical Engineer
+👋 Hi, I’m @KRQPLY</br>
+💻 Front-End Developer</br>
+🦾 Machine Learning enthusiast</br>
+👨‍🔬 Biomedical Engineering Mechanical Engineer</br>
 
 
 
