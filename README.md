@@ -3,7 +3,8 @@
 👋 Hi, I’m @KRQPLY</br>
 💻 Front-End Developer</br>
 🦾 Machine Learning enthusiast</br>
-👨‍🔬 Biomedical Engineering Mechanical Engineer</br>
+👨‍🔬 Biomedical Engineering Bachelor of Science</br>
+👨‍💻 Studying Computer Science Master of Science</br>
 
 
 
