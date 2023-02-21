@@ -4,7 +4,9 @@
 💻 Front-End Developer</br>
 🦾 Machine Learning enthusiast</br>
 👨‍🔬 Biomedical Engineering Bachelor of Science</br>
-👨‍💻 Studying Computer Science Master of Science</br>
+👨‍💻 Computer Science Master of Science</br>
+
+
 
 
 
